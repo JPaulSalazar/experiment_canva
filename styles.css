@@ -1,0 +1,12 @@
+button{
+    background-color: red;
+    color: white;
+    display: block;
+    font-size: 30px;
+    height: 50px;
+    width: 200px;
+    
+}
+.canvas{
+    border: solid 4px black;
+}
